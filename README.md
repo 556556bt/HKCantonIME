@@ -10,6 +10,6 @@ Speaker common usage
 
 Unlike Jyutping system by Linguistic Society of Hong Kong and Cantonese Pinyin by HKIeD, they are less systematic and consensus by authority. However, they are accustomed by most of HongKonger due to the large exposure, usage and long traditions on naming of peoples, places and streets.
 
-Currently, the database has 3,357 pronunciation pattern covering 5,625 traditional kanji characters in result of 8,203 input candidate.
+Currently, the database has 3,357 pronunciation pattern covering 5,625 traditional kanji characters in result of 8,203 input candidates.
 
 
