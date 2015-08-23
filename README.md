@@ -3,7 +3,9 @@ This IME is aim to support both Desktop and Metro Apps on 32bit and 64bit Window
 HKCantonIME adopts several Cantonese Romanization schemes which are more popular and common to Hongkonger. 
 
 *Hong Kong Government Cantonese Romanization
+
 *Sidney Lau Romanization
+
 *Speaker common usage
 
 Unlike Jyutping system by Linguistic Society of Hong Kong and Cantonese Pinyin by HKIeD, they are less systematic and consensus by authority. However, they are accustomed by most of HongKonger due to the large exposure, usage and long traditions on naming of peoples, places and streets.
