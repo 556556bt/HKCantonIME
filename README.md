@@ -3,7 +3,7 @@ This IME is aim to support both Desktop and Metro Apps on 32bit and 64bit Window
 
 HKCantonIME adopts several Cantonese Romanization schemes which are more popular and common to Hongkonger. 
 
-###Pre-release v0.5 (2015/08/28)
+###Pre-release v0.6 (2015/08/28)
 ###Pre-release v0.5 (2015/08/24)
 
 ### Cantonese Romanization 
