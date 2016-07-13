@@ -3,7 +3,7 @@ This IME is aim to support both Desktop and Metro Apps on 32bit and 64bit Window
 
 HKCantonIME adopts several Cantonese Romanization schemes which are more popular and common to Hongkonger. 
 
-### * Some ppl found problem while insatlling on Windows 10 Build 10586 (TH2). A little trick was posted on the Issues can fix the issue currently. Btw, I'm working on database update and code re-package for coming Windows 10 Anniversay Update (RS1). Hopefully, it will be release conjuntion with launch of RS1 on Aug 2, 2016. (2016/07/14) *
+### * Some ppl found problem while insatlling on Windows 10 Build 10586 (TH2).  A little trick was posted on the Issues page can fix the problem temporarily. Btw, I'm working on database update and code re-package for coming Windows 10 Anniversay Update (RS1). Hopefully, it will be release conjuntion with launch of RS1 on Aug 2, 2016. (2016/07/14) *
 
 ###Pre-release v0.6 (2015/08/28) 
 ###Pre-release v0.5 (2015/08/24)
